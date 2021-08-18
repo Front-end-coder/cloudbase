@@ -1,6 +1,5 @@
 {
   "version": "2.0",
-  "envId": "hello-cloudbase-7g8fru4he44cbe7b",
   "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
   "functionRoot": "./functions",
   "functions": [],
